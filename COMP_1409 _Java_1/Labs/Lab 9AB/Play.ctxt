@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Play
+comment1.params=
+comment1.target=Play()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Play\r\n
+comment2.params=
+comment2.target=void\ stringPlay()
+comment2.text=\r\n\ Method\ stringPlay\r\nThis\ method\ takes\ a\ string\ input\ and\ formats\ it\ to\ first\ letter\ uppercase,\r\nremaining\ letters\ lowercase,\ and\ print\ the\ string\ the\ amount\ its\ length\ in\ characters\r\n
+comment3.params=inputNumber
+comment3.target=boolean\ checkValidTableInput(int)
+comment3.text=\r\n\ Method\ checkValidTableInput\r\n\ @param\ inputNumber\ is\ the\ integer\ input\ to\ check\ validity\r\n\ @return\ True\ if\ if-statement\ is\ true\r\n\ @return\ false\ if\ if-statement\ is\ false\r\n
+comment4.params=
+comment4.target=void\ getMultiplicationTable()
+comment4.text=\r\n\ Method\ getMultiplicationTable\r\nThis\ method\ multiples\ two\ integers\ between\ 1\ and\ 10\ and\ prints\ the\ multiplication\ table\r\n
+comment5.params=
+comment5.target=void\ guessTheNumber()
+comment5.text=\r\n\ Method\ guessTheNumber\r\nThis\ method\ generates\ a\ random\ number\ between\ 1\ and\ 10,\ then\ prompts\ user\ input\r\nfor\ a\ number\ between\ 1\ and\ 10,\ if\ the\ number\ is\ higher\ or\ lower\ than\ the\ generated\ \r\nnumber,\ it\ asks\ the\ user\ to\ guess\ again\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Method\ main\r\n\ @param\ args\ is\ the\ parameter\ of\ the\ main\ method\r\n
+numComments=7

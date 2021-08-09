@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=DriverExam
+comment0.text=\r\n\ @author\ (Vladislav\ Gudkov)\r\n\ @version\ (Nov\ 7\ 2019)\r\n
+comment1.params=
+comment1.target=DriverExam()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DriverExam\r\n\ @param\ driverAnswers\ is\ a\ string\ input\ \r\n\ @param\ inputAnswers\ calls\ inputReader\r\n
+comment2.params=answer
+comment2.target=java.lang.Boolean\ checkValidity(java.lang.String)
+comment2.text=\r\n\ Method\ checkValidity\r\n\ @param\ answer\ A\ parameter\ to\ check\ if\ answer\ is\ a\ valid\ input\r\n\ @return\ True\ if\ answer\ is\ not\ null\ and\ answer\ matches\ answer\ string\r\n\ @return\ false\ if\ not\ true\r\n
+comment3.params=
+comment3.target=void\ promptStudentAnswers()
+comment3.text=\r\n\ Method\ promptStudentAnswers\r\nThis\ method\ prompts\ student\ Answers\ for\ the\ exam\ and\ returns\ to\ the\ student\ which\ ones\ they\ score\ correctly\r\n
+comment4.params=
+comment4.target=int\ getTotalCorrectAnswers()
+comment4.text=\r\n\ Method\ getTotalCorrectAnswers\r\n\ @return\ correctAnswer\ i.e.\ the\ number\ of\ correct\ Answers\ on\ the\ exam\r\n
+comment5.params=
+comment5.target=int\ getTotalIncorrectAnswers()
+comment5.text=\r\n\ Method\ getTotalIncorrectAnswers\r\n\ @return\ the\ number\ of\ correctAnswers\ subtracted\ from\ the\ ANSWERS\ string\r\n
+comment6.params=
+comment6.target=java.lang.Boolean\ PassOrFail()
+comment6.text=\r\n\ Method\ PassOrFail\r\n\ @return\ true\ if\ student\ passes\ the\ exam\r\n\ @return\ false\ if\ the\ student\ fails\ the\ exam\r\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\r\n\ Method\ main\r\n\ @param\ args\ A\ parameter\ is\ the\ parameter\ for\ the\ Main\ method\r\n
+numComments=8
