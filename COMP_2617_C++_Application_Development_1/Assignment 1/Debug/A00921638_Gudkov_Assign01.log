@@ -1,4 +1,0 @@
-﻿  ex03_11.cpp
-C:\Users\Administrator\MEGA\dev\A00921638_Gudkov_Assign01\ex03_11.cpp(34,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Administrator\MEGA\dev\A00921638_Gudkov_Assign01\ex03_11.cpp(35,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  A00921638_Gudkov_Assign01.vcxproj -> C:\Users\Administrator\MEGA\dev\A00921638_Gudkov_Assign01\Debug\A00921638_Gudkov_Assign01.exe
