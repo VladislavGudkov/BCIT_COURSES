@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Room
+comment0.text=\r\n\ @author\ (Vladislav\ Gudkov)\r\n\ @version\ (October\ 24\ 2019)\r\n
+comment1.params=
+comment1.target=Room()
+comment1.text=\r\n\ Room\ Constructor\ with\ no-args\r\n
+comment2.params=inputLengthInFeet\ inputWidthInFeet
+comment2.target=Room(double,\ double)
+comment2.text=\r\n\ Room\ Constructor\r\n\r\n\ @param\ inputLengthInFeet\ is\ the\ input\ for\ constructor\ Room\r\n\ @param\ inputWidthInFeet\u0000\ is\ the\ input\ for\ constructor\ Room\r\n
+comment3.params=
+comment3.target=double\ getLengthInFeet()
+comment3.text=\r\n\ Method\ getLengthInFeet\r\n\ @return\ lengthInFeet\ accesor\ method\ for\ lengthInFeet\r\n
+comment4.params=
+comment4.target=double\ getWidthInFeet()
+comment4.text=\r\n\ Method\ getWidthInFeet\r\n\ @return\ widthInFeet\u0000\ accesor\ method\ for\ widthInFeet\u0000\r\n
+comment5.params=inputLengthInFeet
+comment5.target=void\ setLengthInFeet(double)
+comment5.text=\r\n\ Method\ setLengthInFeet\r\n\ @param\ setLengthInFeet\ is\ the\ mutator\ method\ for\ lengthInFeet\r\n
+comment6.params=inputWidthInFeet
+comment6.target=void\ setWidthInFeet\u0000(double)
+comment6.text=\r\n\ Method\ setWidthInFeet\u0000\r\n\ @param\ setWidthInFeet\u0000\ is\ the\ mutator\ method\ for\ widthInFeet\u0000\r\n
+comment7.params=
+comment7.target=double\ calculateArea\u0000()
+comment7.text=\r\n\ Method\ calculateArea\u0000\r\n\ @return\ area\ which\ is\ the\ product\ of\ lengthInFeet\u0000\ and\ widthInFeet\u0000\r\n
+numComments=8

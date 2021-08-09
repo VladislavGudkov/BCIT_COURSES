@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BookClub
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BookClub\ here.\r\n\r\n\ @author\ Vlad\ Gudkov\r\n\ @version\ October\ 3\ 2018\r\n
+comment1.params=inputClientName\ inputNumberOfPurchasedBooksPerMonth
+comment1.target=BookClub(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BookClub\r\n
+comment2.params=
+comment2.target=java.lang.String\ getClientName()
+comment3.params=
+comment3.target=int\ getNumberOfPurchasedBooksPerMonth()
+comment4.params=
+comment4.target=int\ getTotalNumberOfSoldBooks\u0000()
+comment5.params=inputClientName
+comment5.target=void\ setClientName(java.lang.String)
+comment6.params=inputNumberOfPurchasedBooksPerMonth
+comment6.target=void\ setNumberOfPurchasedBooksPerMonth(int)
+comment7.params=
+comment7.target=int\ calculateBookPoints()
+numComments=8

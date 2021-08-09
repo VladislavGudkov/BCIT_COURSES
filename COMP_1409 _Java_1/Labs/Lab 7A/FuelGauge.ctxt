@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=FuelGauge
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FuelGauge\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=FuelGauge()
+comment1.text=\r\n\ No\ args\ constructor\ for\ FuelGauge\u0000\r\n
+comment2.params=inputAmoutOfFuelInLitres
+comment2.target=FuelGauge(int)
+comment2.text=\r\n\ FuelGauge\ Constructor\r\n\ @param\ inputAmoutOfFuelInLitres\u0000\ the\ parameter\ for\ this\ constructor\r\n
+comment3.params=
+comment3.target=int\ getAmoutOfFuelInLitres\u0000()
+comment3.text=\r\n\ Method\ getAmoutOfFuelInLitres\u0000\ accesor\ method\ for\ amoutOfFuelInLitres\u0000\r\n\ @return\ amoutOfFuelInLitres\u0000\r\n
+comment4.params=inputAmoutOfFuelInLitres
+comment4.target=void\ setAmountOfFuelInLitres(int)
+comment4.text=\r\n\ Method\ setAmountOfFuelInLitres\r\n\ @param\ inputAmoutOfFuelInLitres\u0000\ the\ parameter\ used\ for\ the\ mutator\ method\ setAmountOfFuelInLitres\r\n
+comment5.params=
+comment5.target=void\ useFuel\u0000()
+comment5.text=\r\n\ Method\ useFuel\u0000\r\nThis\ method\ decrements\ the\ fuel\ in\ litres\ by\ a\ counter\ of\ 1;\ if\ it\ reaches\ 0\ ,\ an\ empty\ tank\ message\ is\ displayed\r\n
+comment6.params=
+comment6.target=void\ addFuel\u0000()
+comment6.text=\r\n\ Method\ useFuel\u0000\r\nThis\ method\ increments\ the\ fuel\ in\ litres\ by\ a\ counter\ of\ 1;\ if\ it\ goes\ above\ 15\ ,\ a\ full\ tank\ message\ is\ displayed\r\n
+numComments=7

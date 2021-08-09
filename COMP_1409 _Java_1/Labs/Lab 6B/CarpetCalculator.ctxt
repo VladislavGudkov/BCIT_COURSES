@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CarpetCalculator
+comment0.text=\r\n\ @author\ (Vladislav\ Gudkov)\r\n\ @version\ (October\ 24\ 2019)\r\n
+comment1.params=inputPricePerSquareFoot\u0000\ inputRoom
+comment1.target=CarpetCalculator(double,\ Room)
+comment1.text=\r\n\ CarpetCalculator\ Constructor\r\n\ @param\ inputPricePerSquareFoot\u0000\ is\ a\ parameter\ for\ CarpetCalculator\r\n\ @param\ inputRoom\ is\ a\ parameter\ for\ CarpetCalculator\r\n
+comment2.params=
+comment2.target=double\ getPricePerSquareFoot\u0000()
+comment2.text=\r\n\ Method\ getPricePerSquareFoot\u0000\ \r\n\ @param\ getPricePerSquareFoot\u0000\ is\ the\ accesor\ method\ for\ pricePerSquareFoot\u0000\r\n\ @return\ pricePerSquareFoot\u0000\r\n
+comment3.params=
+comment3.target=Room\ getRoom()
+comment3.text=\r\n\ Method\ getRoom\r\n\ @param\ getRoom\ is\ the\ accesor\ method\ for\ room\r\n\ @return\ room\r\n
+comment4.params=inputPricePerSquareFoot
+comment4.target=void\ setPricePerSquareFoot\u0000(double)
+comment4.text=\r\n\ Method\ setPricePerSquareFoot\u0000\r\n\ @param\ setPricePerSquareFoot\ is\ the\ mutator\ method\ for\ pricePerSquareFoot\u0000\r\n
+comment5.params=inputRoom
+comment5.target=void\ setRoom(Room)
+comment5.text=\r\n\ Method\ setRoom\r\n\ @param\ setRoom\ is\ the\ mutator\ method\ for\ room;\ if\ null\ it\ uses\ the\ no\ args\ room\ constructor\r\n
+comment6.params=
+comment6.target=double\ calculateTotalCost\u0000()
+comment6.text=\r\n\ Method\ calculateTotalCost\u0000\r\n\ @return\ totalCost\r\n
+comment7.params=
+comment7.target=void\ displayTotalCost()
+comment7.text=\r\n\ Method\ displayTotalCost\r\n
+numComments=8
