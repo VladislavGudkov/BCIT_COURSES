@@ -1,0 +1,28 @@
+enter # 1: 9
+The number enetered is not in the valid range of 10 to 100
+
+enter # 1: 101
+The number enetered is not in the valid range of 10 to 100
+
+enter # 1: 10
+enter # 2: 10
+enter # 3: 10
+enter # 4: 10
+enter # 5: 10
+enter # 6: 10
+enter # 7: 10
+enter # 8: 10
+enter # 9: 10
+enter # 10: 10
+enter # 11: 10
+enter # 12: 10
+enter # 13: 10
+enter # 14: 10
+enter # 15: 10
+enter # 16: 10
+enter # 17: 10
+enter # 18: 10
+enter # 19: 10
+enter # 20: 10
+
+Array:
