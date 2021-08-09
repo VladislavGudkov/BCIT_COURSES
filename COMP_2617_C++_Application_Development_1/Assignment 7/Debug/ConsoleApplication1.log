@@ -1,0 +1,6 @@
+﻿  A00921638_Gudkov_Assign07.cpp
+C:\Users\Administrator\MEGA\dev\COMP 2617 - C++ 1\A00921638_Gudkov_Assign07\ConsoleApplication1\A00921638_Gudkov_Assign07.cpp(193): warning C4715: 'validateHours': not all control paths return a value
+C:\Users\Administrator\MEGA\dev\COMP 2617 - C++ 1\A00921638_Gudkov_Assign07\ConsoleApplication1\A00921638_Gudkov_Assign07.cpp(186): warning C4715: 'validateSin': not all control paths return a value
+C:\Users\Administrator\MEGA\dev\COMP 2617 - C++ 1\A00921638_Gudkov_Assign07\ConsoleApplication1\A00921638_Gudkov_Assign07.cpp(200): warning C4715: 'validatePay': not all control paths return a value
+C:\Users\Administrator\MEGA\dev\COMP 2617 - C++ 1\A00921638_Gudkov_Assign07\ConsoleApplication1\A00921638_Gudkov_Assign07.cpp(207): warning C4715: 'validateExempt': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\Administrator\MEGA\dev\COMP 2617 - C++ 1\A00921638_Gudkov_Assign07\ConsoleApplication1\Debug\ConsoleApplication1.exe
