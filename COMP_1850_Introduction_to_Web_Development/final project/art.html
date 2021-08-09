@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="css/padding_random.css">
+  <title>COMP 1850 Final Project</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    
+ <script src="https://www.gstatic.com/firebasejs/7.2.3/firebase-app.js"></script>
+    
+<script src="https://www.gstatic.com/firebasejs/7.2.3/firebase-analytics.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.2.3/firebase-firestore.js"></script>
+    
+    
+    
+    
+    <script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyCSOKoYFB1KA-pH042uxrKOgs0J0SKItMM",
+    authDomain: "comp-1850-b4e1c.firebaseapp.com",
+    databaseURL: "https://comp-1850-b4e1c.firebaseio.com",
+    projectId: "comp-1850-b4e1c",
+    storageBucket: "comp-1850-b4e1c.appspot.com",
+    messagingSenderId: "1058309895602",
+    appId: "1:1058309895602:web:55671104cdd7a87a63e0ab",
+    measurementId: "G-4FZJQ6QHB7"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  //firebase.analytics();
+    
+    //Initialize Firestore 
+var db = firebase.firestore();
+</script>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</head>
+
+
+<body>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <a class="navbar-brand" href="index.html">Vlad's Website</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+        
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="index.html">Index <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="gallery.html">Gallery</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="hobbies.html">Hobbies</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="programming.html">Programming</a>
+      </li>
+        <li class="nav-item">
+        <a class="nav-link" href="mathematics.html">Mathematics</a>
+      </li>
+        <li class="nav-item">
+        <a class="nav-link" href="sports.html">Sports</a>
+      </li>
+        <li class="nav-item">
+        <a class="nav-link" href="education.html">Education</a>
+      </li>
+        <li class="nav-item active">
+        <a class="nav-link" href="art.html">Art</a>
+      </li>
+        <li class="nav-item">
+        <a class="nav-link" href="books.html">Books</a>
+      </li>
+        <li class="nav-item">
+        <a class="nav-link" href="contact.html">Contact Me</a>
+      </li>    
+    </ul>
+  </div>
+</nav>
+   
+   
+   
+   <div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-6">My Art</h1>
+    <p class="lead">A gallery of art in my abode!</p>
+  </div>
+</div>
+   
+   
+ 
+    
+    <div class ="container">
+     <div class="col d-flex justify-content-center">     
+        <div class="card mb-3" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="images/Art/scrooge.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Scrooge McDuck</h5>
+        <p class="card-text"><small class="text-muted">By <i>unknown</i></small></p>
+        
+      </div>
+    </div>
+  </div>
+</div>
+   </div>
+    </div>
+    
+    
+    <div class ="container">
+     <div class="col d-flex justify-content-center">     
+        <div class="card mb-3" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="images/Art/utopian_cities_wenzel_hablik.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Utopian Cities</h5>
+          <p class="card-text"><small class="text-muted">By Wenzel Hablik</small></p>
+          <p></p>
+      </div>
+    </div>
+  </div>
+</div>
+   </div>
+    </div>
+    
+    
+    <div class ="container">
+     <div class="col d-flex justify-content-center">     
+        <div class="card mb-3" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="images/Art/being_strfkr.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Being No One, Going Nowhere</h5>
+          <p class="card-text"><small class="text-muted">By STRFKR</small></p>
+        <p class="card-text">This is an album cover for the fifth studio album of the band STRFKR</p>   
+      </div>
+    </div>
+  </div>
+</div>
+   </div>
+    </div>
+   
+   
+   
+   
+   
+   
+    
+    <nav class="navbar fixed-bottom navbar-dark bg-dark ">
+  <a class="navbar-brand" href="#"></a>
+</nav> 
+</body>
+</html>
