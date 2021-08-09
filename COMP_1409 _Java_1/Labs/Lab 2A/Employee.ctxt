@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\ Name\:\ Vladislav\ Gudkov\r\n\ Student\ ID\:\ A00921638\r\n\ Class\:\ COMP\ 1409\ Saturday\ 9am-12pm\r\n\ Lab\ 2-A\r\n
+comment1.params=
+comment1.target=Employee()
+comment2.params=inputName\ inputAgeInYears\ inputAddress\ inputYearsEmployed\ inputAnnualPayInCad\ inputFullTimeStatus
+comment2.target=Employee(java.lang.String,\ int,\ java.lang.String,\ int,\ double,\ boolean)
+numComments=3

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Student\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=inputStudentName\ inputStudentID\ inputTestScore\ inputCourseFeesInCAD
+comment1.target=Student(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n
+comment10.params=inputCourseFeesInCAD
+comment10.target=void\ checkForDiscount(double)
+comment11.params=
+comment11.target=void\ printStudentDetails()
+comment2.params=
+comment2.target=java.lang.String\ getStudentName()
+comment3.params=
+comment3.target=java.lang.String\ getStudentID()
+comment4.params=
+comment4.target=int\ getTestScore()
+comment5.params=
+comment5.target=double\ getCourseFeesInCAD()
+comment6.params=inputStudentName
+comment6.target=void\ setStudentName(java.lang.String)
+comment7.params=inputStudentID
+comment7.target=void\ setStudentID(java.lang.String)
+comment8.params=inputCourseFeesInCAD
+comment8.target=void\ setcourseFeesInCAD(double)
+comment9.params=inputTestScore
+comment9.target=void\ setTestScore(int)
+numComments=12

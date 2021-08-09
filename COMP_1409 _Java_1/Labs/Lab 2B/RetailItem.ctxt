@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RetailItem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RetailItem\ here.\r\n\r\n\ @author\ (Vladislav\ Gudkov)\r\n\ @studentID\ (A00921638)\r\n\ @Class\ COMP\ 1409\ Lab\ 2-B\ (Saturday\ Morning)\r\n
+comment1.params=
+comment1.target=RetailItem()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ RetailItem\r\n\ @param\ itemDescription\u0000\ is\ assigned\ a\ default\ string\ of\ "unknown"\r\n\ @param\ itemPriceInCAD\u0000\ is\ assigned\ a\ default\ value\ of\ 1\r\n\ @param\ isInDemand\ is\ assigned\ a\ default\ value\ of\ false\r\n\ @param\ numberOfUnitsInStock\u0000\ is\ assigned\ a\ default\ value\ of\ 1\r\n
+comment2.params=inputItemDescription\ inputPriceInCad\ inputRetailItemDemandStatus\ inputUnitsInStock
+comment2.target=RetailItem(java.lang.String,\ int,\ boolean,\ int)
+comment2.text=\r\n\ Constructor\ 2\ (user\ input)\ for\ objects\ of\ class\ RetailItem\r\n\ @param\ inputItemDescription\ takes\ user\ input\ string\ for\ variable\ itemDescription\u0000,\ if\ string\ is\ null,\ throws\ an\ IllegalArgumentException\r\n\ @param\ inputPriceInCad\ takes\ user\ input\ int\ for\ variable\ itemPriceInCAD\u0000,\ if\ less\ than\ 0,\ throws\ an\ IllegalArgumentException\r\n\ @param\ inputRetailItemDemandStatus\ takes\ user\ input\ for\ boolean\ variable\ isInDemand\r\n\ @param\ inputUnitsInStock\ takes\ user\ input\ int\ for\ variable\ numberOfUnitsInStock,\ if\ less\ than\ 0,\ throws\ an\ IllegalArgumentException\r\n
+numComments=3
